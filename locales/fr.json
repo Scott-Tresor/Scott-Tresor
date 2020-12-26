@@ -1,0 +1,104 @@
+{
+  "lang": "fr",
+  "links": {
+    "home": "Accueil",
+    "about": "À propos",
+    "resume": "CV",
+    "services": "Services",
+    "electronic_products": "Produits électroniques",
+    "teaching": "Enseignements",
+    "contact": "Contact",
+    "english": "Version Anglaise",
+    "french": "Version Française"
+  },
+  "home": {
+    "title": "Bienvenue",
+    "about_me": "À propos de moi",
+    "introduction": "Un ingénieur logiciel full-stack qui aime résoudre des problèmes et construire des produits. J'ai eu à collaborer avec de petites et moyennes entreprises et des ONG où j'ai a pu enrichir l’organisation grâce à mon expertise et compétences. Passionné par la technologie, je souhaite toujours acquérir de nouvelles compétences et travailler sur des projets qui l’obligent à aller au-delà de ma zone de confort et connaissances. <br> Quand je ne travaille pas, j'aime regarder des films, écouter de la musique et aider des amis à resoudre problemes informatique."
+  },
+  "about": {
+    "title": "À propos",
+    "introduction": "Un ingénieur logiciel full-stack. Il aime résoudre des problèmes et construire des choses. J'ai eu à collaborer avec de petites et moyennes entreprises et des ONG où j'ai a pu enrichir l’organisation grâce à mon expertise et compétences. Passionné par la technologie, je souhaite toujours acquérir de nouvelles compétences et travailler sur des projets qui l’obligent à aller au-delà de ma zone de confort et connaissances. <br> Quand je ne travaille pas, j'aime regarder des films, écouter de la musique et aider des amis à resoudre problemes informatique."
+  },
+  "resume": {
+    "title": "Resume",
+    "introduction": "",
+    "education": "Etudes Faites",
+    "masters": "Master en Génie Logiciel (M.E)",
+    "bachelors": "Licence en Génie Informatique (B.Sc)",
+    "professional_training": "Formations Professionnelles",
+    "training": {
+      "chinese": "Introduction à la langue Chinoise",
+      "ccna": "Cisco CCNA",
+      "android": "Développement d'applications Android",
+      "administration": "Administration de l'infrastructure informatique"
+    },
+    "professional_experience": "Expériences Professionnelles",
+    "professional": {
+      "hannation": "Développeur Web Seigneur",
+      "edge": "Développeur Web et instructeur de la programmation en Lua (Corona SDK) pour la création des jeux",
+      "ccfc": "Développeur Web et administrateur du site de la Communauté des congolais en Formation en chine",
+      "caritas": "Développeur Web Seigneur",
+      "ades": "Développeur Web Seigneur",
+      "sudan_school": "Développeur Web Seigneur",
+      "maranatha": "Développeur Web Seigneur",
+      "jerm": "Ingénieur informaticien - stagiaire",
+      "monaco_institute": "Technicien réseau - stagiaire",
+      "ict_center": "Technicien IT - stagiaire"
+    },
+    "personal_projects": "Projets Personnels",
+    "projects": {
+      "lingala": "Application mobile Android pour l'enseignement du lingala de base",
+      "exetat": "Une application Android éducative qui aide les finalistes du lycée à se préparer à leurs examens finaux en fournissant un programme utile et des documents antérieurs",
+      "wikilangue": "Un site Web wiki qui fournit une plate-forme sur laquelle les utilisateurs peuvent ajouter et modifier différentes langues.",
+      "xlszipsave": "Un transformateur javascript json open source pour créer, enregistrer et compresser le type de fichier document Excel",
+      "cheke": "Un validateur javascript open source pour ExpressJS",
+      "bible_desktop": "Une application de bureau"
+    },
+    "awards": "Prix",
+    "my_skills": "Compétences",
+    "skills": {
+      "languages": "Langues",
+      "design": "Design",
+      "os": "Système d'exploitation",
+      "frontend": "Frontend",
+      "backend": "Backend",
+      "web_automation": "Automatisation du développement Web",
+      "web_package_manager": "Gestionnaire des bibliothèques du Développement Web ",
+      "desktop_dev": "Développement d'applications de bureau",
+      "mobile_dev": "Développement d'applications mobile ",
+      "electronic": "Electronique",
+      "collaboration": "Outils de collaboration d’équipe",
+      "version_control": "Contrôle de version",
+      "testing": "Testing",
+      "programming": "Languages de Programmation"
+    }
+  },
+  "teaching": {
+    "title": "Enseignements",
+    "introdution": "",
+    "academic_year": "Année Academique",
+    "umc": {
+      "database": "Système d’informatique et les bases de données"
+    }
+  },
+  "all": {
+    "search": "Rechercher",
+    "english": "Anglais",
+    "french": "Francais",
+    "chinese": "Chinois",
+    "lingala": "Lingala",
+    "swahili": "Swahili",
+    "download_cv": "Télécharger le CV",
+    "email": "Email",
+    "phone": "Phone",
+    "drc": "R.D.Congo",
+    "usa": "Etats Unis",
+    "residence": "Résidence",
+    "uganda": "Ouganda",
+    "china": "Chine",
+    "to_present": "A PRESENT",
+    "software_developer": "Développeur de logiciels",
+    "software_engineer": "Ingénieur logiciel"
+  }
+}
