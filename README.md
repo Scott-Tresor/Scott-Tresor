@@ -6,7 +6,7 @@
 
 To get started:
 
-- I’m currently working on ...
-- I’m currently learning ...
+- I’m currently working on Be served
+- I’m currently learning Angular, NestJs, Symfony
 - I’m looking to collaborate on ...
 - Want to reach out: 
